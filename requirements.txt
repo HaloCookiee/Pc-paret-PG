@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+discord-webhook
+schedule
+selenium
+webdriver-manager

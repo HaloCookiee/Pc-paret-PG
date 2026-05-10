@@ -1,0 +1,16 @@
+{
+    "webhook_url": "YOUR_WEBHOOK_URL_HERE",
+    "queries": [
+        "gaming laptops",
+        "gpu",
+        "cpu",
+        "motherboard",
+        "pc case",
+        "power supply",
+        "pc storage",
+        "cpu cooler",
+        "computer ram"
+    ],
+    "max_results": 5,
+    "check_interval_minutes": 60
+}
